@@ -1,6 +1,6 @@
-[![TeleTok](./img/logo.jpg?raw=true)](https://t.me/TeleTockerBot)
+[![TeleTok](./img/logo.jpg?raw=true)](https://t.me/anonytikbot)
 
-# [TeleTok](https://t.me/TeleTockerBot): Telegram bot for TikTok
+# [TeleTok](https://t.me/anonytikbot): Telegram bot for TikTok
 
 ## Description
 
@@ -21,7 +21,7 @@ Built on top of [aiogram](https://github.com/aiogram/aiogram)
 ## Local
 
 ```bash
-$ git clone https://github.com/captaincolonelfox/TeleTok
+$ git clone https://github.com/NetworkChukka/telegram-tiktok-downloader
 $ python3 -m venv venv
 $ (venv) pip install -r requirements.txt
 $ (venv) echo "API_TOKEN=foo:bar" >> .env
